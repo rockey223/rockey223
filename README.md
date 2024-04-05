@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rockey223" alt="rockey223" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [pmaharjan.com.np](pmaharjan.com.np)
+- 👨‍💻 All of my projects are available at [https://pmaharjan.com.np](https://pmaharjan.com.np)
 
 - 💬 Ask me about **React**
 
